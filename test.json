@@ -1,0 +1,6 @@
+{
+    "name": "Andrey",
+    "age": 20,
+    "gender": "male",
+    "profession": ["frontend developer", "backend developer"]
+}
